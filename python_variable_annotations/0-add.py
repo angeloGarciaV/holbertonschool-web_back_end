@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module that takes two floats and returns their sum"""
+"""takes two floats and returns their sum"""
 
 
 def add(a: float, b: float) -> float:
