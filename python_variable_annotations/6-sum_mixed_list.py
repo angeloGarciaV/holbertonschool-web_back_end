@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""""""
+"""Module that defines sum_mixed_list function."""
 
 from typing import List, Union
 
