@@ -1,4 +1,4 @@
 node_modules
 .*
 babel.config.js
-main.js
+ES6_basic/main.js
